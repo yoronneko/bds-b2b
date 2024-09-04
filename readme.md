@@ -1,3 +1,7 @@
+# This project was archived
+
+This project intended to implement error corrections of BeiDou's PPP-B2b messages. Now, a python code of [sdr_nb_ldpc.py](https://github.com/tomojitakasu/PocketSDR/blob/master/python/sdr_nb_ldpc.py) in [Pocket SDR](https://github.com/tomojitakasu/PocketSDR) achieved it. Plesae refer to the Pocket SDR project.
+
 # Check matrix calculation of BeiDou B-CNAV3 in B2b signals
 
 https://github.com/yoronneko/bds-b2b
